@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 14 01:42:26 2015
 
-@author: Kruthika
+@author: Kruthika Potlapally
 """
 import pandas as pd
 from scipy import stats
